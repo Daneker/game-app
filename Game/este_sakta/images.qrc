@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="bg">images/first page/back.png</file>
+        <file alias="este">images/first page/este.png</file>
+        <file alias="sheshim">images/first page/sheshim.png</file>
+        <file alias="zhyldam">images/first page/zhyldam.png</file>
+        <file alias="bg_wewim">images/wewim tap/3.png</file>
+        <file alias="b3">images/wewim tap/button3.png</file>
+        <file>images/jyldamdyk/bala.png</file>
+        <file>images/jyldamdyk/basta.png</file>
+        <file alias="e_b">images/este sakta/1.png</file>
+        <file>images/este sakta/back_kyz.png</file>
+        <file>images/about and points/artka.png</file>
+        <file>images/about and points/text_score.png</file>
+        <file alias="z11">images/jyldamdyk/1/b1.png</file>
+        <file alias="z12">images/jyldamdyk/1/b2.png</file>
+        <file alias="z13">images/jyldamdyk/1/b3.png</file>
+        <file alias="z14">images/jyldamdyk/1/b4.png</file>
+        <file alias="z15">images/jyldamdyk/1/b5.png</file>
+        <file alias="z16">images/jyldamdyk/1/b6.png</file>
+        <file alias="z17">images/jyldamdyk/1/b7.png</file>
+        <file>images/about and points/ia.png</file>
+        <file>images/about and points/jok.png</file>
+        <file>images/about and points/blank.png</file>
+        <file>images/about and points/dengei.png</file>
+        <file alias="z21">images/jyldamdyk/2/b1.png</file>
+        <file alias="z22">images/jyldamdyk/2/b2.png</file>
+        <file alias="z23">images/jyldamdyk/2/b3.png</file>
+        <file alias="z24">images/jyldamdyk/2/b4.png</file>
+        <file alias="z25">images/jyldamdyk/2/b5.png</file>
+        <file alias="z26">images/jyldamdyk/2/b6.png</file>
+        <file alias="z27">images/jyldamdyk/2/b7.png</file>
+        <file alias="z31">images/jyldamdyk/3/b2.png</file>
+        <file alias="z32">images/jyldamdyk/3/b4.png</file>
+        <file alias="z33">images/jyldamdyk/3/b6.png</file>
+        <file alias="z34">images/jyldamdyk/3/b7.png</file>
+        <file>images/about and points/warty/ab1.png</file>
+        <file>images/about and points/warty/ab2.png</file>
+        <file>images/about and points/warty/wart3.png</file>
+        <file alias="e2">images/este sakta/kobyz.png</file>
+        <file alias="e1">images/este sakta/kyz saukele.png</file>
+        <file alias="e3">images/este sakta/takya.png</file>
+    </qresource>
+</RCC>
