@@ -2,7 +2,7 @@
 
 A game application written in C++, constructed on Qt Creator. Consists of 3 different subgames, each with levels of difficulty
 
-1st subgame: "Este sakta" = need to remember and find the object in a 33, 44, 5*5 matrix;
+1st subgame: "Este sakta" = need to remember and find the object in a 3x3, 4x4, 5x5 matrix;
 
 2nd subgame: "Sheshimin tap" = calculate simple arithmetic problem;
 
